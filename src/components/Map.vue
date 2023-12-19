@@ -15,10 +15,10 @@ const mapSettings = {
   apiKey: "1e8c4e00-cd38-4764-b126-066c30584a29",
   lang: "ru_RU",
   coordorder: "latlong",
-  //   location: {
-  //     center,
-  //     zoom,
-  //   },
+  location: {
+    center: [37.588144, 55.733842],
+    zoom: 10,
+  },
 };
 </script>
 
