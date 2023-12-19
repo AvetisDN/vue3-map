@@ -13,12 +13,12 @@ const zoom = 5;
 
 const mapSettings = {
   apiKey: "1e8c4e00-cd38-4764-b126-066c30584a29",
-  lang: "ru_RU",
-  coordorder: "latlong",
-  location: {
-    center,
-    zoom,
-  },
+  //   lang: "ru_RU",
+  //   coordorder: "latlong",
+  //   location: {
+  //     center,
+  //     zoom,
+  //   },
 };
 </script>
 
