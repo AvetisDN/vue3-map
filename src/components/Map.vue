@@ -12,10 +12,9 @@ const center = [55.450797, 51.909868];
 const zoom = 5;
 
 const mapSettings = {
-  apiKey: "",
+  apiKey: "1e8c4e00-cd38-4764-b126-066c30584a29",
   lang: "ru_RU",
   coordorder: "latlong",
-  enterprise: false,
   location: {
     center,
     zoom,
